@@ -1,6 +1,13 @@
 https://cs230-iitb.github.io/autumn-2025/ our yr course webpage
-https://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2025/
 https://www.cse.iitb.ac.in/~biswa/courses/CS305/schedule.html
+
+https://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2025/
+https://statproofbook.github.io/
+https://www.statlect.com/
+
+https://www.cse.iitb.ac.in/~akg/courses/2025-ds/
+
+https://www.cse.iitb.ac.in/~swaprava/cs6001_07_2025.html
 
 [PML]: https://probml.github.io/pml-book/book1.html Probabilistic Machine Learning'' by Kevin Murphy. MIT Press, Mar 2022
 [ISL] https://www.statlearning.com/ An Introduction to Statistical Learning  by James, Witten, Hastie, and Tibshirani.
