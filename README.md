@@ -1,7 +1,18 @@
 **Bold** references are recommended by the prof in 2026.
 
 
+Crypto
 
+https://sruthisekar.wordpress.com/introduction-to-cryptography-m/
+
+Textbooks:
+
+  **Introduction to Modern Cryptography, Jonathan Katz and Yehuda Lindell \
+    A Graduate Course in Applied Cryptography, Dan Boneh and Victor Shoup \
+    The Joy of Cryptography, Mike Rosulek \
+    A Course in Cryptography, Rafael Pass and Abhi Shelat \
+    Lecture notes for fundamentals of cryptography, Leonid Reyzin \
+    Foundations of Cryptography, Volume I-II, Oded Goldreich**
 
 
 DLDCA
