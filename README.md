@@ -1,7 +1,8 @@
+
+Logistics for each subject are available in the PDF named "Logistics" under each subject folder.
+
+
 **Bold** references are recommended by the prof in 2026.
-
-
-
 
 
 DLDCA
