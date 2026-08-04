@@ -1,3 +1,5 @@
+
+Logistics for each subject are available in the PDF named "Logistics" under each subject folder.
 **Bold** references are recommended by the prof in 2026.
 
 
@@ -13,7 +15,7 @@ Textbooks:
     A Course in Cryptography, Rafael Pass and Abhi Shelat \
     Lecture notes for fundamentals of cryptography, Leonid Reyzin \
     Foundations of Cryptography, Volume I-II, Oded Goldreich**
-
+    
 
 DLDCA
 
