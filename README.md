@@ -161,3 +161,4 @@ Demo applets for various machine learning operations https://docs.google.com/spr
 
 
 
+Game theory in 2026 had slot clash so no one in CSE was able to take it. We still include it because who knows if we will make a repo in 5th sem or not :)
