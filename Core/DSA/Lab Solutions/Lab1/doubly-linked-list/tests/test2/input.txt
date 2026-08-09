@@ -1,0 +1,38 @@
+2
+26
+print 0
+rprint 0
+size 0
+find 0 5
+push_front 0 1
+push_front 0 2
+push_front 0 3
+push_back 0 4
+push_back 0 5
+print 0
+rprint 0
+size 0
+insert_before 0 0 9
+insert_before 0 6 8
+insert_before 0 3 7
+print 0
+rprint 0
+size 0
+erase_at 0 0
+print 0
+erase_at 0 6
+print 0
+erase_at 0 2
+print 0
+rprint 0
+size 0
+9
+push_back 1 42
+print 1
+rprint 1
+size 1
+erase_at 1 0
+print 1
+rprint 1
+size 1
+find 1 42

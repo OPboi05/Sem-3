@@ -1,0 +1,43 @@
+2
+34
+reverse 0
+print 0
+rprint 0
+size 0
+push_back 0 1
+print 0
+rprint 0
+push_front 0 2
+print 0
+rprint 0
+push_back 0 3
+print 0
+rprint 0
+reverse 0
+print 0
+rprint 0
+insert_before 0 0 7
+print 0
+insert_before 0 2 8
+print 0
+rprint 0
+reverse 0
+print 0
+rprint 0
+size 0
+erase_at 0 0
+print 0
+erase_at 0 3
+print 0
+rprint 0
+size 0
+reverse 0
+reverse 0
+print 0
+6
+push_back 0 1
+reverse 0
+erase_at 0 0
+print 0
+size 0
+rprint 0

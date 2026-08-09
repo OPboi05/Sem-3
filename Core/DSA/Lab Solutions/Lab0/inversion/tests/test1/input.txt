@@ -1,0 +1,7 @@
+2
+10
+AACGTTGGCA
+2 6
+6
+ACGTAC
+0 5

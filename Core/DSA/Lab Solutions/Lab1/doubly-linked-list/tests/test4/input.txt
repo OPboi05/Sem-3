@@ -1,0 +1,23 @@
+1
+21
+push_back 0 5
+push_back 0 7
+push_back 0 5
+push_back 0 9
+push_back 0 7
+find 0 5
+find 0 7
+find 0 9
+find 0 4
+reverse 0
+print 0
+find 0 5
+find 0 7
+find 0 9
+find 0 4
+erase_at 0 0
+find 0 7
+print 0
+reverse 0
+find 0 5
+find 0 7

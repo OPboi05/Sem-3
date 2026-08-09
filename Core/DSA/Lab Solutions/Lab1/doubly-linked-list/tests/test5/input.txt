@@ -1,0 +1,36 @@
+2
+20
+push_back 0 1
+push_back 0 2
+push_back 0 3
+push_back 1 4
+push_back 1 5
+join 0 1
+print 0
+rprint 0
+size 0
+print 1
+rprint 1
+size 1
+push_back 1 6
+print 1
+size 1
+join 0 1
+print 0
+rprint 0
+size 0
+size 1
+13
+push_back 0 1
+join 0 1
+print 0
+size 0
+print 1
+size 1
+join 1 0
+print 1
+rprint 1
+size 1
+print 0
+size 0
+rprint 0

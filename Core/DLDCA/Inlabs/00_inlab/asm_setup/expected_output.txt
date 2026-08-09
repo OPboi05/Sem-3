@@ -1,0 +1,10 @@
+=== envcheck: nasm/gcc/ld pipeline test ===
+[stage 1] literal write via syscall : hello from .data
+[stage 2] register arithmetic (7*6+5): 47
+[stage 3] conditional jump result    : branch-taken-correctly
+[stage 4] loop sum 1..10             : 55
+[stage 5] extern c_add(19, 23)       : 42
+[stage 6] extern c_checksum(buf,8)   : 2774017321012
+=== all stages completed, exit code reflects pass/fail ===
+exit code: 0
+ 

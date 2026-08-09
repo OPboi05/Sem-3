@@ -1,0 +1,15 @@
+1
+13
+push_back 0 10
+push_front 0 3
+insert_before 0 1 7
+print 0
+rprint 0
+size 0
+erase_at 0 0
+reverse 0
+print 0
+rprint 0
+find 0 7
+find 0 99
+size 0
