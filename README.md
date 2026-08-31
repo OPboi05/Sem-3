@@ -25,7 +25,7 @@ DLDCA
 
 https://cs230-iitb.github.io/autumn-2025/ 
 
-https://www.cse.iitb.ac.in/\~biswa/courses/CS305/schedule.html
+https://www.cse.iitb.ac.in/~biswa/courses/CS305/schedule.html
 
 
 
@@ -49,7 +49,7 @@ DAI
 
 2025
 
-https://www.cse.iitb.ac.in/\~ajitvr/CS215\_Fall2025/
+https://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2025/
 
 https://statproofbook.github.io/
 
@@ -75,7 +75,7 @@ DSA
 
 2025
 
-https://www.cse.iitb.ac.in/\~akg/courses/2025-ds/
+https://www.cse.iitb.ac.in/~akg/courses/2025-ds/
 
 Important Books:
 
@@ -93,7 +93,7 @@ Logic
 
 2026
 
-https://www.cse.iitb.ac.in/\~akshayss/courses/cs228-2026/cs228-2026.html
+https://www.cse.iitb.ac.in/~akshayss/courses/cs228-2026/cs228-2026.html
 
 Important Books:
 
@@ -113,7 +113,7 @@ Game Theory
 
 2025
 
-https://www.cse.iitb.ac.in/\~swaprava/cs6001\_07\_2025.html
+https://www.cse.iitb.ac.in/~swaprava/cs6001_07_2025.html
 
 Important Books:
 
@@ -137,7 +137,7 @@ Primary references:
 
 Secondary references:
 
-\[ SS17] http://www.cs.huji.ac.il/\~shais/UnderstandingMachineLearning/index.html Understanding Machine Learning. Shai Shalev-Shwartz and Shai Ben-David. Cambridge University Press. 2017. Available online.
+\[ SS17] http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html Understanding Machine Learning. Shai Shalev-Shwartz and Shai Ben-David. Cambridge University Press. 2017. Available online.
 
 \[ Bis07] Pattern recognition and machine learning by Christopher Bishop, Springer Verlag, 2006. https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 
@@ -155,7 +155,7 @@ Additional references:
 
 Andrew Ng's offering on Coursera https://www.coursera.org/course/ml 
 
-Lecture notes from some of the previous offerings of the class. https://www.cse.iitb.ac.in/\~sunita/cs725/lecturenotes.html
+Lecture notes from some of the previous offerings of the class. https://www.cse.iitb.ac.in/~sunita/cs725/lecturenotes.html (this link is broken now ;-;)
 
 Demo applets for various machine learning operations https://docs.google.com/spreadsheet/ccc?key=0ApGjHieOqvTAdEQzR0NwdzFQMHoxOUNvbWREdHFNYXc\&hl=en\_US#gid=0
 
